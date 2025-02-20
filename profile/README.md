@@ -1,4 +1,4 @@
-# 🚀 XDefender Discord Bot
+# 🚀 xDefender Discord Bot
 
 ## 🔐 About
 XDefender is an advanced security bot designed to protect your Discord server from various threats, including raids, spam, and unauthorized modifications.
@@ -80,5 +80,5 @@ The bot is easy to set up with a simple configuration wizard 🏗️:
 
 ---
 
-✨ *XDefender - Keeping your Discord community safe and secure* ✨
+✨ *xDefender - Keeping your Discord community safe and secure* ✨
 
