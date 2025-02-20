@@ -70,7 +70,7 @@ The bot is easy to set up with a simple configuration wizard 🏗️:
 ---
 
 ## 📸 Embed Preview
-![Embed Preview](profil/embed.png)
+![Embed Preview](https://github.com/xDefender-bot/.github/blob/main/profile/embed.png?raw=true)
 
 ---
 
