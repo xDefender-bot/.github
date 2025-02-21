@@ -29,6 +29,7 @@ XDefender is an advanced security bot designed to protect your Discord server fr
 ## 📜 Comprehensive Logging
 XDefender provides detailed logs for all server activities 📑:
 - ➕/❌ Member join and leave events
+- ➕/❌ Member join voice and leave voice events
 - ✏️ Message edits and deletions
 - 🏗️ Channel and role modifications
 - 🔐 Permission changes
