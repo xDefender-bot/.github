@@ -1,7 +1,7 @@
 # 🚀 xDefender Discord Bot
 
 ## 🔐 About
-XDefender is an advanced security bot designed to protect your Discord server from various threats, including raids, spam, and unauthorized modifications.
+xDefender is an advanced security bot designed to protect your Discord server from various threats, including raids, spam, and unauthorized modifications.
 
 ![🟢 Bot Status](https://img.shields.io/badge/Status-Online-brightgreen) ![📌 Version](https://img.shields.io/badge/Version-2.0-blue)
 
@@ -45,11 +45,21 @@ Control access to sensitive settings with a whitelist system 🔏:
 
 ---
 
+## 🚫 BlackList System
+Control access to restricted areas with a blacklist system 🔒:
+- 👑 **Owner-controlled access**: Only the owner can modify the blacklist.
+- 🛠️ **Protected administrative controls**: Only authorized users can manage the blacklist.
+- 🚫 **Auto-ban**: Automatically bans users who are added to the blacklist. ⚔️
+- ➕ **Add**: Adds users to the blacklist.
+- ➖ **Remove**: Removes users from the blacklist.
+---
+
 ## 📌 Commands
 - `/config` ⚙️ - Configure all protection modules
 - `/bot-info` 📊 - View bot statistics
 - `/help` ❓ - Access the help center
 - `/wh` 🔓 - Manage whitelist settings (owner only)
+- `/bl` 🚫 - Manage whitelist settings
 
 ---
 
@@ -67,6 +77,7 @@ The bot is easy to set up with a simple configuration wizard 🏗️:
 - 🕵️ Real-time threat detection
 - 🚀 Optimized for minimal resource usage
 - 🔄 Advanced rate limiting system
+- 🚫 Advanced blacklist system
 
 ---
 
