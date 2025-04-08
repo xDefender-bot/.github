@@ -59,7 +59,7 @@ Control access to restricted areas with a blacklist system 🔒:
 - `/bot-info` 📊 - View bot statistics
 - `/help` ❓ - Access the help center
 - `/wh` 🔓 - Manage whitelist settings (owner only)
-- `/bl` 🚫 - Manage whitelist settings
+- `/bl` 🚫 - Manage blacklist system
 
 ---
 
