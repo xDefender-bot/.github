@@ -28,7 +28,7 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 ### 🛡️ AutoMod
 - 🔞 **Anti-Porn**: Automatically blocks adult or explicit links.
 - 🤬 **Anti-Badword**: Detects and removes messages containing offensive language.
-- 📨 **Anti-Spam**: Blocks mass or repetitive messages to prevent spam.
+- 📨 **Anti-Invite**: Blocks Invite.
 
 ---
 
