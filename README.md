@@ -21,6 +21,7 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 
 ### 🏰 Server Protections
 - 🔥 **Anti-Channel Delete**: Prevents unauthorized channel deletions.
+- 🔄 **Auto Channel Restore**: Automatically recreates deleted channels with original permissions + Works when antiChannelDelete is enabled
 - 🎭 **Anti-Role Delete**: Protects against role deletions.
 - ⚙️ **Anti-Server Edit**: Prevents unauthorized server setting changes.
 - 🚦 **Anti-Permissions**: Monitors and restricts dangerous permission changes.
@@ -99,3 +100,4 @@ The bot is easy to set up with a simple configuration wizard 🏗️:
 ---
 
 ✨ *xDefender - Keeping your Discord community safe and secure* ✨
+
