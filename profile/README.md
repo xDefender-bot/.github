@@ -3,7 +3,7 @@
 ## 🔐 About
 xDefender is an advanced security bot designed to protect your Discord server from various threats, including raids, spam, and unauthorized modifications.
 
-![🟢 Bot Status](https://img.shields.io/badge/Status-Online-brightgreen) ![📌 Version](https://img.shields.io/badge/Version-2.3-blue)
+![🟢 Bot Status](https://img.shields.io/badge/Status-Online-brightgreen) ![📌 Version](https://img.shields.io/badge/Version-2.4-blue)
 
 ---
 
