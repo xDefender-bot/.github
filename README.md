@@ -3,7 +3,7 @@
 ## 🔐 About
 xDefender is an advanced security bot designed to protect your Discord server from various threats, including raids, spam, and unauthorized modifications.
 
-![🟢 Bot Status](https://img.shields.io/badge/Status-Online-brightgreen) ![📌 Version](https://img.shields.io/badge/Version-3.1-blue)
+![🟢 Bot Status](https://img.shields.io/badge/Status-Online-brightgreen) ![📌 Version](https://img.shields.io/badge/Version-3.2-blue)
 
 ---
 
@@ -18,6 +18,7 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 ### 🛡️ Anti-Raid Protections
 - 🤖 **Anti-Bot**: Blocks unauthorized bots from joining your server.
 - 🚫 **Anti-Massban**: Prevents mass banning of members.
+- 🚫 **Anti-MassKick**: Prevents mass kick of members.
 - 🌐 **Anti-Webhook**: Protects against webhook abuse.
 - 🛡️ **Anti-Raid Account**: Blocks spam join attempts and raid accounts.",
 - 🛡️ **Anti External Applications**: Blocks and removes the External Applications permission from roles.",
@@ -111,9 +112,10 @@ The bot is easy to set up with a simple configuration wizard 🏗️:
 ---
 
 ## 👨‍💻 Developers
-- 🦊 [Kurama](https://github.com/Kurama250)
-- 🧙 [Merlincode](https://github.com/merlincode)
+- 🦊 Main Dev [Kurama](https://github.com/Kurama250)
+- 🧙 Ex Main Dev [Merlincode](https://github.com/merlincode)
 
 ---
 
 ✨ *xDefender - Keeping your Discord community safe and secure* ✨
+
