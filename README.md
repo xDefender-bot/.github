@@ -3,7 +3,7 @@
 ## 🔐 About
 xDefender is an advanced security bot designed to protect your Discord server from various threats, including raids, spam, and unauthorized modifications.
 
-![🟢 Bot Status](https://img.shields.io/badge/Status-Online-brightgreen) ![📌 Version](https://img.shields.io/badge/Version-3.4-blue)
+![🟢 Bot Status](https://img.shields.io/badge/Status-Online-brightgreen) ![📌 Version](https://img.shields.io/badge/Version-3.5-blue)
 
 ---
 
@@ -52,6 +52,13 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 - 🕵️ **AntiProxy**: Detects and blocks connections from proxies.
 - 👥 **Anti Double Account**: Prevents users from joining with multiple accounts.
 
+## 💾 Backup
+- 📦 **Create**: Create a full server backup.
+- 📂 **Load**: Load an existing backup.
+- 📥 **Import**: Import an external backup file.
+- 📤 **Export**: Export a backup as a downloadable file.
+- 🗑️ **Delete**: Permanently delete a backup.
+- 
 ---
 
 ## 📜 Comprehensive Logging
