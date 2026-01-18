@@ -56,7 +56,6 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 - 📦 **Create**: Create a full server backup.
 - 📂 **Load**: Load an existing backup.
 - 📥 **Import**: Import an external backup file.
-- 📤 **Export**: Export a backup as a downloadable file.
 - 🗑️ **Delete**: Permanently delete a backup.
  
 ---
