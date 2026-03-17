@@ -127,7 +127,6 @@ The bot is easy to set up with a simple configuration wizard 🏗️:
 
 ## 👨‍💻 Developers
 - 🦊 Main Dev [Kurama](https://github.com/Kurama250)
-- 🧙 Ex Main Dev [Merlincode](https://github.com/merlincode)
 
 ---
 
