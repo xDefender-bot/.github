@@ -9,11 +9,19 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 
 ## ⚡ Key Features
 
-### 🌍 Multi-Languages  
-- 🤖 **FR**: Version française du bot.  
-- 🚫 **EN**: English version of the bot.  
-- 🌐 **ES**: Versión en español del bot.  
-- 🛡️ **DE**: Deutsche Version des Bots.  
+### 🌍 Multi-Languages
+- <img src="https://flagcdn.com/fr.svg" width="20"> **FR** : Version française du bot.  
+- <img src="https://flagcdn.com/us.svg" width="20"> **EN** : English version of the bot.  
+- <img src="https://flagcdn.com/es.svg" width="20"> **ES** : Versión en español del bot.  
+- <img src="https://flagcdn.com/de.svg" width="20"> **DE** : Deutsche Version des Bots.  
+- <img src="https://flagcdn.com/ru.svg" width="20"> **RU** : Русская версия бота.  
+- <img src="https://flagcdn.com/cn.svg" width="20"> **ZH** : 中文版机器人。  
+- <img src="https://flagcdn.com/in.svg" width="20"> **HI** : हिन्दी बोट संस्करण।  
+- <img src="https://flagcdn.com/jp.svg" width="20"> **JA** : 日本語版のボット。  
+- <img src="https://flagcdn.com/pt.svg" width="20"> **PT** : Versão portuguesa do bot.  
+- <img src="https://flagcdn.com/fr.svg" width="20"> **EU** : Euskarazko botaren bertsioa.  
+- <img src="https://flagcdn.com/fr.svg" width="20"> **CO** : Versione corsa du bot.  
+- <img src="https://flagcdn.com/sa.svg" width="20"> **AR** : النسخة العربية من الروبوت.  
 
 ### 🛡️ Anti-Raid Protections
 - 🤖 **Anti-Bot**: Blocks unauthorized bots from joining your server.
