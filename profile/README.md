@@ -70,7 +70,7 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 ### 🛠️ Utils
 - ⚙️ **Alert Booster**: Manage and configure server boost features.
 - 👋 **Welcome**: Configure join messages, auto roles, and welcome system.
-- 🏆 **Status Rank**: Manage XP system, levels, and ranking features
+- 🏆 **Status Rank**: Manage role with status url.
 
 ### 💾 Backup
 - 📦 **Create**: Create a full server backup.
