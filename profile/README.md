@@ -213,6 +213,12 @@ Owner-only management &nbsp;•&nbsp; Auto-ban on blacklist addition &nbsp;•&n
 
 <div align="center">
 
+## Embed Preview
+
+![Embed Preview](https://github.com/xDefender-bot/.github/blob/main/profile/embed.png?raw=true)
+
+---
+
 ## Developer
 
 [![Kurama](https://img.shields.io/badge/Main%20Dev-Kurama-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kurama250)
