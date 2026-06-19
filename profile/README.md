@@ -14,15 +14,19 @@
 
 ---
 
+<div align="center">
+
 ## Overview
 
 xDefender is an advanced security bot designed to protect your Discord server from raids, spam, and unauthorized modifications.
 
+</div>
+
 ---
 
-## Languages
-
 <div align="center">
+
+## Languages
 
 <img src="https://flagcdn.com/fr.svg" width="20"> FR &nbsp;|&nbsp;
 <img src="https://flagcdn.com/us.svg" width="20"> EN &nbsp;|&nbsp;
@@ -39,6 +43,8 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 </div>
 
 ---
+
+<div align="center">
 
 ## Features
 
@@ -122,7 +128,7 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 |---|---|
 | Create | Create a full server backup |
 | Load | Load an existing backup |
-| Import | Import with id server |
+| Import | Import with server id |
 | Delete | Permanently delete a backup |
 
 ---
@@ -136,34 +142,45 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 | Leave | Configure leave messages |
 | Status Rank | Assign roles based on status URL |
 
+</div>
+
 ---
+
+<div align="center">
 
 ## Logging
 
-![Logging](https://img.shields.io/badge/📋_Logging-4A90D9?style=flat-square) XDefender provides detailed logs for all server events:
+![Logging](https://img.shields.io/badge/📋_Logging-4A90D9?style=flat-square)
 
-- Member join / leave
-- Voice channel join / leave
-- Message edits and deletions
-- Channel and role modifications
-- Permission changes
-- Moderation actions
+XDefender provides detailed logs for all server events:
+
+| Event | |
+|---|---|
+| Member join / leave | Voice channel join / leave |
+| Message edits and deletions | Channel and role modifications |
+| Permission changes | Moderation actions |
+
+</div>
 
 ---
+
+<div align="center">
 
 ## Whitelist & Blacklist
 
 ### ![Whitelist](https://img.shields.io/badge/✅_Whitelist-00AA00?style=flat-square)
-- Owner-controlled access
-- Protected administrative controls
-- Tiered permission system
+
+Owner-controlled access &nbsp;•&nbsp; Protected administrative controls &nbsp;•&nbsp; Tiered permission system
 
 ### ![Blacklist](https://img.shields.io/badge/🚫_Blacklist-FF0000?style=flat-square)
-- Owner-only management
-- Auto-ban on blacklist addition
-- Add / Remove members
+
+Owner-only management &nbsp;•&nbsp; Auto-ban on blacklist addition &nbsp;•&nbsp; Add / Remove members
+
+</div>
 
 ---
+
+<div align="center">
 
 ## Commands
 
@@ -175,7 +192,11 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 | `/wh` | Manage whitelist (owner only) |
 | `/bl` | Manage blacklist system |
 
+</div>
+
 ---
+
+<div align="center">
 
 ## Setup
 
@@ -186,31 +207,17 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 4. Add trusted users to the whitelist
 ```
 
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" title="JavaScript"/> &nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="32" title="Node.js"/> &nbsp;
-<img src="https://cdn.simpleicons.org/discord/5865F2" width="32" title="Discord.js"/>
-
 </div>
 
 ---
+
+<div align="center">
 
 ## Developer
 
-<div align="center">
-
 [![Kurama](https://img.shields.io/badge/Main%20Dev-Kurama-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kurama250)
 
-</div>
-
 ---
-
-<div align="center">
 
 *xDefender — Keeping your Discord community safe and secure*
 
