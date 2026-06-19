@@ -1,151 +1,217 @@
-# 🚀 xDefender Discord Bot
+# xDefender — Discord Security Bot
 
-## 🔐 About
-xDefender is an advanced security bot designed to protect your Discord server from various threats, including raids, spam, and unauthorized modifications.
+<div align="center">
 
-![🟢 Bot Status](https://img.shields.io/badge/Status-Online-brightgreen) ![📌 Version](https://img.shields.io/badge/Version-3.9.1-blue)
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="80" alt="Discord"/>
 
----
+<br/><br/>
 
-## ⚡ Key Features
+[![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)](.)
+[![Version](https://img.shields.io/badge/Version-3.9.1-blue?style=for-the-badge)](.)
+[![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)](.)
 
-### 🌍 Multi-Languages
-- <img src="https://flagcdn.com/fr.svg" width="20"> **FR** : Version française du bot.
-- <img src="https://flagcdn.com/us.svg" width="20"> **EN** : English version of the bot.
-- <img src="https://flagcdn.com/es.svg" width="20"> **ES** : Versión en español del bot.
-- <img src="https://flagcdn.com/de.svg" width="20"> **DE** : Deutsche Version des Bots.
-- <img src="https://flagcdn.com/it.svg" width="20"> **IT** : Version italiana del bot.
-- <img src="https://flagcdn.com/ru.svg" width="20"> **RU** : Русская версия бота.
-- <img src="https://flagcdn.com/cn.svg" width="20"> **ZH** : 中文版机器人。
-- <img src="https://flagcdn.com/in.svg" width="20"> **HI** : हिन्दी बोट संस्करण।
-- <img src="https://flagcdn.com/jp.svg" width="20"> **JA** : 日本語版のボット。
-- <img src="https://flagcdn.com/pt.svg" width="20"> **PT** : Versão portuguesa do bot.
-- <img src="https://flagcdn.com/fr.svg" width="20"> **EU** : Euskarazko botaren bertsioa.
-- <img src="https://flagcdn.com/fr.svg" width="20"> **CO** : Versione corsa du bot.
-- <img src="https://flagcdn.com/sa.svg" width="20"> **AR** : النسخة العربية من الروبوت.
-
-### 🛡️ Anti-Raid Protections
-- 🤖 **Anti-Bot**: Blocks unauthorized bots from joining your server.
-- 🚫 **Anti-Massban**: Prevents mass banning of members.
-- 🚫 **Anti-MassKick**: Prevents mass kick of members.
-- 🌐 **Anti-Webhook**: Protects against webhook abuse.
-- 🛡️ **Anti-Raid Account**: Blocks spam join attempts and raid accounts.
-- 🛡️ **Anti External Applications**: Blocks and removes the External Applications permission from roles.
-- 🛡️ **Anti New Account**: Block accounts that are too recent.
-- 👑 Anti-PingOwner: Automod Blocking ping owner and Role
-
-### ⚠️ Anti-Spam Protections
-- 📩 **Anti-Spam**: Advanced spam detection and prevention.
-- 🔗 **Anti-Invite**: Smart blocking of Discord invite links.
-- 🔗 **Anti-Link**: Smart blocking of links.
-- 👻 AntiMassGhostPing: Intelligent blocking of ghost pings
-- 📢 AntiMassPing: Intelligent blocking of pings
-- 📢 Anti-@everyone: Intelligent blocking of pings here and everyone
-
-### 🏰 Server Protections
-- 🔥 **Anti-Channel Delete**: Prevents unauthorized channel deletions.
-- 🔄 **Auto Channel Restore**: Automatically recreates deleted channels with original permissions + Works when antiChannelDelete is enabled
-- 🔄 **Auto Role Restore**: Automatically recreates deleted role with original permissions + Works when antiRoleDelete is enabled
-- 🎭 **Anti-Role Delete**: Protects against role deletions.
-- 🚫 **Anti-Mass Create Channel**: Detects and blocks rapid creation of multiple channels to prevent raid flooding.
-- 🚫 **Anti-Mass Create Role**: Detects and blocks rapid creation of multiple roles to prevent raid flooding.
-- ⚙️ **Anti-Server Edit**: Prevents unauthorized server setting changes.
-- 🚦 **Anti-Permissions**: Monitors and restricts dangerous permission changes.
-- 🎭 **LimiteRank**: Caps how many members can hold a role.
-
-### 🛡️ AutoMod
-- 🔞 **Anti-Porn**: Automatically blocks adult or explicit links.
-- 🤬 **Anti-Badword**: Detects and removes messages containing offensive language.
-- 📨 **Anti-Invite**: Blocks Invite.
-
-### 🤖 AI Live Auto-Moderation (Anti-Harassment / Anti-Racism) 
-- Detects & blocks harassment, hate speech, racism & toxic content instantly  
-- Automatically acts (Delete Message)  
-- Reduces moderation load and keeps your community safe  
-
-### 👥 Anti Double Account
-- 🌐 **AntiVPN**: Blocks users using VPNs to bypass restrictions.
-- 🕵️ **AntiProxy**: Detects and blocks connections from proxies.
-- 👥 **Anti Double Account**: Prevents users from joining with multiple accounts.
-
-### 🛠️ Utils
-- ⚙️ **Alert Booster**: Manage and configure server boost features.
-- 👋 **Welcome**: Configure join messages.
-- 👋 **Leave**: Configure Leave messages.
-- 🏆 **Status Rank**: Manage role with status url.
-
-### 💾 Backup
-- 📦 **Create**: Create a full server backup.
-- 📂 **Load**: Load an existing backup.
-- 📥 **Import**: Import an external backup file.
-- 🗑️ **Delete**: Permanently delete a backup.
- 
----
-
-## 📜 Comprehensive Logging
-XDefender provides detailed logs for all server activities 📑:
-- ➕/❌ Member join and leave events
-- ➕/❌ Member join voice and leave voice events
-- ✏️ Message edits and deletions
-- 🏗️ Channel and role modifications
-- 🔐 Permission changes
-- 🔨 Moderation actions
+</div>
 
 ---
 
-## ✅ Whitelist System
-Control access to sensitive settings with a whitelist system 🔏:
-- 👑 Owner-controlled access
-- 🛠️ Protected administrative controls
-- 🏆 Tiered permission system
+## Overview
+
+xDefender is an advanced security bot designed to protect your Discord server from raids, spam, and unauthorized modifications.
 
 ---
 
-## 🚫 BlackList System
-Control access to restricted areas with a blacklist system 🔒:
-- 👑 **Owner-controlled access**: Only the owner can modify the blacklist.
-- 🛠️ **Protected administrative controls**: Only authorized users can manage the blacklist.
-- 🚫 **Auto-ban**: Automatically bans users who are added to the blacklist. ⚔️
-- ➕ **Add**: Adds users to the blacklist.
-- ➖ **Remove**: Removes users from the blacklist.
----
+## Languages
 
-## 📌 Commands
-- `/config` ⚙️ - Configure all protection modules
-- `/bot-info` 📊 - View bot statistics
-- `/help` ❓ - Access the help center
-- `/wh` 🔓 - Manage whitelist settings (owner only)
-- `/bl` 🚫 - Manage blacklist system
+<div align="center">
 
----
+<img src="https://flagcdn.com/fr.svg" width="20"> FR &nbsp;|&nbsp;
+<img src="https://flagcdn.com/us.svg" width="20"> EN &nbsp;|&nbsp;
+<img src="https://flagcdn.com/es.svg" width="20"> ES &nbsp;|&nbsp;
+<img src="https://flagcdn.com/de.svg" width="20"> DE &nbsp;|&nbsp;
+<img src="https://flagcdn.com/it.svg" width="20"> IT &nbsp;|&nbsp;
+<img src="https://flagcdn.com/ru.svg" width="20"> RU &nbsp;|&nbsp;
+<img src="https://flagcdn.com/cn.svg" width="20"> ZH &nbsp;|&nbsp;
+<img src="https://flagcdn.com/in.svg" width="20"> HI &nbsp;|&nbsp;
+<img src="https://flagcdn.com/jp.svg" width="20"> JA &nbsp;|&nbsp;
+<img src="https://flagcdn.com/pt.svg" width="20"> PT &nbsp;|&nbsp;
+<img src="https://flagcdn.com/sa.svg" width="20"> AR
 
-## 🛠️ Setup
-The bot is easy to set up with a simple configuration wizard 🏗️:
-1. 🎟️ Invite the bot to your server
-2. ⚙️ Use `/config` to enable desired protections
-3. 📡 Set up a logging channel
-4. 👥 Add trusted users to the whitelist
+</div>
 
 ---
 
-## ⚙️ Technical Information
-- 🖥️ Built with **Discord.js**
-- 🕵️ Real-time threat detection
-- 🚀 Optimized for minimal resource usage
-- 🔄 Advanced rate limiting system
-- 🚫 Advanced blacklist system
+## Features
+
+### ![Anti-Raid](https://img.shields.io/badge/🛡️_Anti--Raid-FF4444?style=flat-square)
+
+| Protection | Description |
+|---|---|
+| Anti-Bot | Blocks unauthorized bots from joining |
+| Anti-Massban | Prevents mass banning of members |
+| Anti-MassKick | Prevents mass kicking of members |
+| Anti-Webhook | Protects against webhook abuse |
+| Anti-Raid Account | Blocks spam joins and raid accounts |
+| Anti-External Apps | Removes dangerous external app permissions |
+| Anti-New Account | Blocks accounts that are too recent |
+| Anti-PingOwner | Blocks pings targeting the owner or its role |
 
 ---
 
-## 📸 Embed Preview
-![Embed Preview](https://github.com/xDefender-bot/.github/blob/main/profile/embed.png?raw=true)
+### ![Anti-Spam](https://img.shields.io/badge/🚫_Anti--Spam-FF8800?style=flat-square)
+
+| Protection | Description |
+|---|---|
+| Anti-Spam | Advanced spam detection and prevention |
+| Anti-Invite | Smart blocking of Discord invite links |
+| Anti-Link | Smart blocking of external links |
+| Anti-MassGhostPing | Blocks mass ghost pings |
+| Anti-MassPing | Blocks mass pings |
+| Anti-@everyone | Blocks @here and @everyone abuse |
 
 ---
 
-## 👨‍💻 Developers
-- 🦊 Main Dev [Kurama](https://github.com/Kurama250)
+### ![Server](https://img.shields.io/badge/🏰_Server_Protection-0088FF?style=flat-square)
+
+| Protection | Description |
+|---|---|
+| Anti-Channel Delete | Prevents unauthorized channel deletions |
+| Auto Channel Restore | Recreates deleted channels with original permissions |
+| Auto Role Restore | Recreates deleted roles with original permissions |
+| Anti-Role Delete | Protects against role deletions |
+| Anti-Mass Create Channel | Blocks rapid channel flooding |
+| Anti-Mass Create Role | Blocks rapid role flooding |
+| Anti-Server Edit | Prevents unauthorized server setting changes |
+| Anti-Permissions | Monitors and restricts dangerous permission changes |
+| LimiteRank | Caps how many members can hold a role |
 
 ---
 
-✨ *xDefender - Keeping your Discord community safe and secure* ✨
+### ![AI](https://img.shields.io/badge/🤖_AI_Live_AutoMod-8A2BE2?style=flat-square)
 
+> Powered by artificial intelligence — detects and removes toxic content in real time.
+
+- Harassment, hate speech, racism & toxic content detection
+- Automatic message deletion
+- Reduces moderation load
+
+---
+
+### ![AutoMod](https://img.shields.io/badge/⚙️_AutoMod-CC0000?style=flat-square)
+
+| Protection | Description |
+|---|---|
+| Anti-Porn | Blocks adult or explicit links |
+| Anti-Badword | Removes messages with offensive language |
+| Anti-Invite | Blocks Discord invites |
+
+---
+
+### ![AntiDouble](https://img.shields.io/badge/👥_Anti_Double_Account-7E4798?style=flat-square)
+
+| Protection | Description |
+|---|---|
+| AntiVPN | Blocks VPN users bypassing restrictions |
+| AntiProxy | Detects and blocks proxy connections |
+| Anti Double Account | Prevents multi-account joins |
+
+---
+
+### ![Backup](https://img.shields.io/badge/💾_Backup-00AA55?style=flat-square)
+
+| Action | Description |
+|---|---|
+| Create | Create a full server backup |
+| Load | Load an existing backup |
+| Import | Import with id server |
+| Delete | Permanently delete a backup |
+
+---
+
+### ![Utils](https://img.shields.io/badge/🛠️_Utils-555555?style=flat-square)
+
+| Feature | Description |
+|---|---|
+| Alert Booster | Manage server boost notifications |
+| Welcome | Configure join messages |
+| Leave | Configure leave messages |
+| Status Rank | Assign roles based on status URL |
+
+---
+
+## Logging
+
+![Logging](https://img.shields.io/badge/📋_Logging-4A90D9?style=flat-square) XDefender provides detailed logs for all server events:
+
+- Member join / leave
+- Voice channel join / leave
+- Message edits and deletions
+- Channel and role modifications
+- Permission changes
+- Moderation actions
+
+---
+
+## Whitelist & Blacklist
+
+### ![Whitelist](https://img.shields.io/badge/✅_Whitelist-00AA00?style=flat-square)
+- Owner-controlled access
+- Protected administrative controls
+- Tiered permission system
+
+### ![Blacklist](https://img.shields.io/badge/🚫_Blacklist-FF0000?style=flat-square)
+- Owner-only management
+- Auto-ban on blacklist addition
+- Add / Remove members
+
+---
+
+## Commands
+
+| Command | Description |
+|---|---|
+| `/config` | Configure all protection modules |
+| `/bot-info` | View bot statistics |
+| `/help` | Access the help center |
+| `/wh` | Manage whitelist (owner only) |
+| `/bl` | Manage blacklist system |
+
+---
+
+## Setup
+
+```
+1. Invite xDefender to your server
+2. Run /config to enable protections
+3. Set up a logging channel
+4. Add trusted users to the whitelist
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" title="JavaScript"/> &nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="32" title="Node.js"/> &nbsp;
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="32" title="Discord.js"/>
+
+</div>
+
+---
+
+## Developer
+
+<div align="center">
+
+[![Kurama](https://img.shields.io/badge/Main%20Dev-Kurama-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kurama250)
+
+</div>
+
+---
+
+<div align="center">
+
+*xDefender — Keeping your Discord community safe and secure*
+
+</div>
