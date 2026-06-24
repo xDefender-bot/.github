@@ -141,6 +141,7 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 | Welcome | Configure join messages |
 | Leave | Configure leave messages |
 | Status Rank | Assign roles based on status URL |
+| Guild Rank | Assign roles based on status Guild |
 
 </div>
 
