@@ -7,7 +7,7 @@
 <br/><br/>
 
 [![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)](.)
-[![Version](https://img.shields.io/badge/Version-3.9.1-blue?style=for-the-badge)](.)
+[![Version](https://img.shields.io/badge/Version-3.10-blue?style=for-the-badge)](.)
 [![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)](.)
 
 </div>
