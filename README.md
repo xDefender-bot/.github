@@ -7,7 +7,7 @@
 <br/><br/>
 
 [![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)](.)
-[![Version](https://img.shields.io/badge/Version-3.10-blue?style=for-the-badge)](.)
+[![Version](https://img.shields.io/badge/Version-3.11-blue?style=for-the-badge)](.)
 [![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)](.)
 
 </div>
@@ -119,6 +119,15 @@ xDefender is an advanced security bot designed to protect your Discord server fr
 | AntiVPN | Blocks VPN users bypassing restrictions |
 | AntiProxy | Detects and blocks proxy connections |
 | Anti Double Account | Prevents multi-account joins |
+
+---
+
+### ![Captcha](https://img.shields.io/badge/🛡️_Captcha-FF4444?style=flat-square)
+
+| Protection | Description |
+|---|---|
+| AntiBotAccount | Blocks users automatic join |
+| Anti SelfBot | Blocks users automatic join |
 
 ---
 
